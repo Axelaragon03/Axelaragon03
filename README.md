@@ -17,15 +17,6 @@
   <a href="https://github.com/Axelaragon03">GitHub</a> ·
 </p>
 
----
-
-### Sobre mí
-Soy una persona apasionada por la tecnología y el aprendizaje constante.  
-Me gusta entender cómo funcionan las cosas desde dentro y mejorar un poco cada día.  
-Actualmente estoy dando mis primeros pasos en el desarrollo **backend y frontend**,  
-explorando diferentes lenguajes y frameworks.
-
----
 
 ### 🚀 En qué estoy enfocado
 - Fortalecer mis bases en **JavaScript** y **C#**  
