@@ -12,10 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:tu-correo@gmail.com">Correo</a> ·
+  <a href="mailto:axelaragonemes@gmail.com">Correo</a> ·
   <a href="https://www.linkedin.com/in/tu-user">LinkedIn</a> ·
-  <a href="https://github.com/tu-user">GitHub</a> ·
-  <a href="https://twitter.com/tu-user">Twitter</a>
+  <a href="https://github.com/Axelaragon03">GitHub</a> ·
 </p>
 
 ---
