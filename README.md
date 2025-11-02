@@ -19,7 +19,7 @@
 
 ---
 
-### 🌱 Sobre mí
+### Sobre mí
 Soy una persona apasionada por la tecnología y el aprendizaje constante.  
 Me gusta entender cómo funcionan las cosas desde dentro y mejorar un poco cada día.  
 Actualmente estoy dando mis primeros pasos en el desarrollo **backend y frontend**,  
@@ -57,17 +57,14 @@ Creo firmemente en que cada proyecto, sin importar su tamaño, es una oportunida
 
 ### 📫 Contacto
 <p align="center">
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:axelaragonemes@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/tu-user">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/tu-user">
+  <a href="https://github.com/Axelaragon03">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
-  </a>
-  <a href="https://twitter.com/tu-user">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white">
   </a>
 </p>
 
